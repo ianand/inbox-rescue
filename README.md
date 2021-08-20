@@ -2,6 +2,9 @@
 
 InboxRescue is an iOS Shortcut that adds a "swipe to archive" feature to Gmail's mobile web interface, making it easy to archive mail as you browse your inbox.
 
+[![Video demo of InboxRescue](https://user-images.githubusercontent.com/78809/129496801-3632d1ef-cf14-4be3-85a2-17f70c9363dd.png)](https://www.youtube.com/watch?v=TehvBxtup3I "InboxRescue Demo")
+
+
 ### How to use
 
 1. Open the mobile web version of Gmail by visiting mail.google.com in Safari.
